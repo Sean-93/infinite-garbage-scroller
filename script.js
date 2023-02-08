@@ -75,7 +75,7 @@ intersectionObserver.observe(observerTarget);
 
 setInterval(function () {
   window.scrollTo(1000, document.body.scrollHeight);
-}, 0);
+}, 500);
 
 const textElements = document.querySelectorAll("p, h1, h2, h3, h4, h5, h6, span, strong, em, a, li, th, td, label, input");
 
