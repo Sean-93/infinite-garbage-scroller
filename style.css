@@ -3,92 +3,90 @@ html {
 }
 
 body {
-max-width: 100vw;
+  max-width: 100vw;
   overflow: hidden;
 }
 
 .element {
-    margin: 0 auto;
+  margin: 0 auto;
   text-align: center;
-  min-width:10%;
+  min-width: 10%;
   float: left;
   padding: 1em;
   box-sizing: border-box;
 }
-  
-  h1 {
-    background-color: lightblue;
-    color: white;
-  }
-  
-  h2 {
-    background-color: lightcoral;
-    color: white;
-  }
-  
-  h3 {
-    background-color: lightgreen;
-    color: white;
-  }
-  
-  h4 {
-    background-color: lightyellow;
-    color: black;
-  }
-  
-  h5 {
-    background-color: lightpink;
-    color: white;
-  }
-  
-  h6 {
-    background-color: lightcyan;
-    color: white;
-  }
-  
-  p {
-    background-color: whitesmoke;
-    color: black;
-  }
-  
-  strong {
-    background-color: lightgray;
-    color: white;
-  }
-  
-  em {
-    background-color: lightgray;
-    color: black;
-  }
-  
-  mark {
-    background-color: lightgray;
-    color: white;
-  }
-  
-  del {
-    background-color: lightgray;
-    color: black;
-  }
-  
-  ins {
-    background-color: lightgray;
-    color: black;
-  }
-  
-  sub {
-    background-color: lightgray;
-    color: black;
-  }
-  
-  sup {
-    background-color: lightgray;
-    color: black;
-  }
-  
-  small {
-    background-color: lightgray;
-    color: black;
-  }
-  
-  
+
+h1 {
+  background-color: lightblue;
+  color: white;
+}
+
+h2 {
+  background-color: lightcoral;
+  color: white;
+}
+
+h3 {
+  background-color: lightgreen;
+  color: white;
+}
+
+h4 {
+  background-color: lightyellow;
+  color: black;
+}
+
+h5 {
+  background-color: lightpink;
+  color: white;
+}
+
+h6 {
+  background-color: lightcyan;
+  color: white;
+}
+
+p {
+  background-color: whitesmoke;
+  color: black;
+}
+
+strong {
+  background-color: lightgray;
+  color: white;
+}
+
+em {
+  background-color: lightgray;
+  color: black;
+}
+
+mark {
+  background-color: lightgray;
+  color: white;
+}
+
+del {
+  background-color: lightgray;
+  color: black;
+}
+
+ins {
+  background-color: lightgray;
+  color: black;
+}
+
+sub {
+  background-color: lightgray;
+  color: black;
+}
+
+sup {
+  background-color: lightgray;
+  color: black;
+}
+
+small {
+  background-color: lightgray;
+  color: black;
+}
